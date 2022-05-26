@@ -1,0 +1,11 @@
+{
+    "name": "Cutepuppy #1",
+    "description": "So Cute",
+    "image": "https://bucketfornft.s3.ap-northeast-2.amazonaws.com/images/puppy.png",
+    "attributes": [
+      {
+        "trait_type": "Power",
+        "value": "Max"
+      }
+    ]
+  }
